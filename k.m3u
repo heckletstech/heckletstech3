@@ -1,6 +1,178 @@
 #EXTM3U
 #EXTINF:-1,[COLOR orange]---HECKLETSTECH---[/COLOR]
 http://?
+#EXTINF:-1,----|ANGLAIS|----
+http://topiptv.net:5890/live/holanda/holanda/1452.ts
+#EXTINF:-1,UK|RTÉ One
+http://topiptv.net:5890/live/holanda/holanda/922.ts
+#EXTINF:-1,UK|RTÉ Two
+http://topiptv.net:5890/live/holanda/holanda/923.ts
+#EXTINF:-1,UK|TLC
+http://topiptv.net:5890/live/holanda/holanda/1256.ts
+#EXTINF:-1,UK|BBC News
+http://topiptv.net:5890/live/holanda/holanda/301.ts
+#EXTINF:-1,UK|BBC One HD
+http://topiptv.net:5890/live/holanda/holanda/297.ts
+#EXTINF:-1,UK|BBC Two HD
+http://topiptv.net:5890/live/holanda/holanda/298.ts
+#EXTINF:-1,UK|BBC Three HD
+http://topiptv.net:5890/live/holanda/holanda/299.ts
+#EXTINF:-1,UK|BBC Four
+http://topiptv.net:5890/live/holanda/holanda/300.ts
+#EXTINF:-1,UK|TG4
+http://topiptv.net:5890/live/holanda/holanda/1263.ts
+#EXTINF:-1,UK|ITV HD
+http://topiptv.net:5890/live/holanda/holanda/1080.ts
+#EXTINF:-1,UK|ITV2 HD
+http://topiptv.net:5890/live/holanda/holanda/1081.ts
+#EXTINF:-1,UK|ITV3 HD
+http://topiptv.net:5890/live/holanda/holanda/1082.ts
+#EXTINF:-1,UK|ITV4 HD
+http://topiptv.net:5890/live/holanda/holanda/1083.ts
+#EXTINF:-1,UK|Cbs Reality
+http://topiptv.net:5890/live/holanda/holanda/1209.ts
+#EXTINF:-1,UK|Cbs Drama
+http://topiptv.net:5890/live/holanda/holanda/1210.ts
+#EXTINF:-1,UK|Cbs Action
+http://topiptv.net:5890/live/holanda/holanda/1211.ts
+#EXTINF:-1,UK|London Live
+http://topiptv.net:5890/live/holanda/holanda/1128.ts
+#EXTINF:-1,UK|Channel 4 HD
+http://topiptv.net:5890/live/holanda/holanda/270.ts
+#EXTINF:-1,UK|Channel 5 HD
+http://topiptv.net:5890/live/holanda/holanda/1079.ts
+#EXTINF:-1,UK|Home
+http://topiptv.net:5890/live/holanda/holanda/1255.ts
+#EXTINF:-1,UK|Sky News HD
+http://topiptv.net:5890/live/holanda/holanda/812.ts
+#EXTINF:-1,--|UK SPORT|--
+http://topiptv.net:5890/live/holanda/holanda/1449.ts
+#EXTINF:-1,UK|BT Sport 1 HD
+http://topiptv.net:5890/live/holanda/holanda/279.ts
+#EXTINF:-1,UK|BT Sport 2 HD
+http://topiptv.net:5890/live/holanda/holanda/280.ts
+#EXTINF:-1,UK|BT Sport 3 HD
+http://topiptv.net:5890/live/holanda/holanda/3130.ts
+#EXTINF:-1,UK|BT Sport // ESPN
+http://topiptv.net:5890/live/holanda/holanda/1257.ts
+#EXTINF:-1,UK|BT Sport EuroHD
+http://topiptv.net:5890/live/holanda/holanda/1215.ts
+#EXTINF:-1,UK|Sky Sports 1 HD
+http://topiptv.net:5890/live/holanda/holanda/273.ts
+#EXTINF:-1,UK|Sky Sports 2 HD
+http://topiptv.net:5890/live/holanda/holanda/274.ts
+#EXTINF:-1,UK|Sky Sports 3 HD
+http://topiptv.net:5890/live/holanda/holanda/275.ts
+#EXTINF:-1,UK|Sky Sports 4 HD
+http://topiptv.net:5890/live/holanda/holanda/276.ts
+#EXTINF:-1,UK|Sky Sports 5 HD
+http://topiptv.net:5890/live/holanda/holanda/277.ts
+#EXTINF:-1,UK|Sky Sports F1 HD
+http://topiptv.net:5890/live/holanda/holanda/278.ts
+#EXTINF:-1,UK|MU TV
+http://topiptv.net:5890/live/holanda/holanda/3131.ts
+#EXTINF:-1,UK|LFC TV
+http://topiptv.net:5890/live/holanda/holanda/3220.ts
+#EXTINF:-1,UK|Chelsea TV
+http://topiptv.net:5890/live/holanda/holanda/3219.ts
+#EXTINF:-1,UK|BOX NATION
+http://topiptv.net:5890/live/holanda/holanda/1711.ts
+#EXTINF:-1,UK|Setanta Ireland
+http://topiptv.net:5890/live/holanda/holanda/281.ts
+#EXTINF:-1,UK|Racing
+http://topiptv.net:5890/live/holanda/holanda/1259.ts
+#EXTINF:-1,UK|MOTORS TV
+http://topiptv.net:5890/live/holanda/holanda/1258.ts
+#EXTINF:-1,--|UK CINEMA|--
+http://topiptv.net:5890/live/holanda/holanda/1448.ts
+#EXTINF:-1,UK|Sky1 HD
+http://topiptv.net:5890/live/holanda/holanda/266.ts
+#EXTINF:-1,UK|Sky2
+http://topiptv.net:5890/live/holanda/holanda/267.ts
+#EXTINF:-1,UK|Film4 HD
+http://topiptv.net:5890/live/holanda/holanda/1086.ts
+#EXTINF:-1,UK|Sky Arts 1
+http://topiptv.net:5890/live/holanda/holanda/1254.ts
+#EXTINF:-1,UK|Sky Select HD
+http://topiptv.net:5890/live/holanda/holanda/257.ts
+#EXTINF:-1,UK|Sky Movies Premiere
+http://topiptv.net:5890/live/holanda/holanda/264.ts
+#EXTINF:-1,UK|Sky Movies Great&Modern
+http://topiptv.net:5890/live/holanda/holanda/1207.ts
+#EXTINF:-1,UK|Sky Movies Disney HD
+http://topiptv.net:5890/live/holanda/holanda/1253.ts
+#EXTINF:-1,UK|Sky Movies Drama
+http://topiptv.net:5890/live/holanda/holanda/258.ts
+#EXTINF:-1,UK|DinsenyChannel
+http://topiptv.net:5890/live/holanda/holanda/1090.ts
+#EXTINF:-1,UK|Sky Disney HD
+http://topiptv.net:5890/live/holanda/holanda/282.ts
+#EXTINF:-1,UK|Sky Movies Comedy
+http://topiptv.net:5890/live/holanda/holanda/806.ts
+#EXTINF:-1,UK|Sky Atlantic HD
+http://topiptv.net:5890/live/holanda/holanda/261.ts
+#EXTINF:-1,UK|Sky ScFi/HorHD
+http://topiptv.net:5890/live/holanda/holanda/263.ts
+#EXTINF:-1,UK|Sky Movies Showcase
+http://topiptv.net:5890/live/holanda/holanda/1087.ts
+#EXTINF:-1,UK|Sky Movies Family
+http://topiptv.net:5890/live/holanda/holanda/1088.ts
+#EXTINF:-1,UK|Sky Movies Action
+http://topiptv.net:5890/live/holanda/holanda/1089.ts
+#EXTINF:-1,UK|Sky Living
+http://topiptv.net:5890/live/holanda/holanda/1085.ts
+#EXTINF:-1,UK|Sky Movies Thriller
+http://topiptv.net:5890/live/holanda/holanda/260.ts
+#EXTINF:-1,UK|Sky True Movies
+http://topiptv.net:5890/live/holanda/holanda/271.ts
+#EXTINF:-1,UK|Sky True Movies 2
+http://topiptv.net:5890/live/holanda/holanda/272.ts
+#EXTINF:-1,UK|Dave
+http://topiptv.net:5890/live/holanda/holanda/269.ts
+#EXTINF:-1,UK|Fox
+http://topiptv.net:5890/live/holanda/holanda/1208.ts
+#EXTINF:-1,UK|Syfy
+http://topiptv.net:5890/live/holanda/holanda/265.ts
+#EXTINF:-1,UK|Good Food
+http://topiptv.net:5890/live/holanda/holanda/1213.ts
+#EXTINF:-1,UK|Food Network
+http://topiptv.net:5890/live/holanda/holanda/1212.ts
+#EXTINF:-1,--|UK CULTURE|--
+http://topiptv.net:5890/live/holanda/holanda/1450.ts
+#EXTINF:-1,UK|NatGeoGraphic
+http://topiptv.net:5890/live/holanda/holanda/286.ts
+#EXTINF:-1,UK|NationalGeography-Wild
+http://topiptv.net:5890/live/holanda/holanda/807.ts
+#EXTINF:-1,UK|DiscoverySc
+http://topiptv.net:5890/live/holanda/holanda/291.ts
+#EXTINF:-1,UK|DiscoveryHistory
+http://topiptv.net:5890/live/holanda/holanda/292.ts
+#EXTINF:-1,UK|Disc Turbo
+http://topiptv.net:5890/live/holanda/holanda/1106.ts
+#EXTINF:-1,UK|DiscoveryCI
+http://topiptv.net:5890/live/holanda/holanda/290.ts
+#EXTINF:-1,UK|Discovery HD
+http://topiptv.net:5890/live/holanda/holanda/289.ts
+#EXTINF:-1,UK|DiscoveryWorld
+http://topiptv.net:5890/live/holanda/holanda/1260.ts
+#EXTINF:-1,UK|AnimalPlanet
+http://topiptv.net:5890/live/holanda/holanda/288.ts
+#EXTINF:-1,--|UK ENFANTS|--
+http://topiptv.net:5890/live/holanda/holanda/1451.ts
+#EXTINF:-1,UK|Nick Jr
+http://topiptv.net:5890/live/holanda/holanda/1084.ts
+#EXTINF:-1,UK|Sky Baby
+http://topiptv.net:5890/live/holanda/holanda/2707.ts
+#EXTINF:-1,UK|Nicktoons
+http://topiptv.net:5890/live/holanda/holanda/284.ts
+#EXTINF:-1,UK|nickelodeon
+http://topiptv.net:5890/live/holanda/holanda/285.ts
+#EXTINF:-1,UK|Disney Junior
+http://topiptv.net:5890/live/holanda/holanda/283.ts
+#EXTINF:-1,UK|Cartoon Network
+http://topiptv.net:5890/live/holanda/holanda/813.ts
+
+
 #EXTINF:-1,[XXX] Cento X Cento
 http://62.112.9.156:36000/live/donato/donato/7762.ts
 #EXTINF:-1,[XXX] Dorcel HD
