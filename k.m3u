@@ -1,52 +1,96 @@
 #EXTM3U
+#EXTINF:-1,[COLOR orange]---HECKLETSTECH---[/COLOR]
+http://?
 
 
-#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20150809205413/logopedia/images/7/75/Nfl-network-logo.jpg",NFL NETWORK SD
-http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN.m3u8 
-
-#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20150809205413/logopedia/images/7/75/Nfl-network-logo.jpg",NFL NETWORK HD 1500k
-http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_1500k.m3u8
-
-#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20150809205413/logopedia/images/7/75/Nfl-network-logo.jpg",NFL NETWORK HD 2000k
-http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
-
-#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20150809205413/logopedia/images/7/75/Nfl-network-logo.jpg",NFL NETWORK HD 5000k
-http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_5000k.m3u8
-
-#EXTINF:-1, BIG TEN NETWORK HD (USA)
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-
-
-#EXTINF:-1, SKY SPORTS 2 (ALT)
-rtmpe://134.19.185.252:1935/livedge/mamahdsky2
-
-
-INF:-1, SKY SPORTS 3 (ALT)
-rtmpe://134.19.185.252:1935/livedge/mamahdsky3
-
-
-#EXTINF:-1, SKY SPORTS 4 (ALT)
-rtmpe://134.19.185.252:1935/livedge/mamahdsky4
-
-
-#EXTINF:-1, SKY SPORTS 5 (ALT)
-rtmpe://134.19.185.252:1935/livedge/mamahdsky5
-
-
-#EXTINF:-1, BT SPORT 1
-rtmpe://134.19.185.252:1935/livedge/mamahdbtsport1
-
-
-#EXTINF:-1, BEIN PREMIER
-http://lihattv.toh.info/jhos/beib3_5/-/playlist.m3u8
-
-
-
-#EXTINF:-1, BEIN SPORTS 1 HD
-http://lihattv.toh.info/jhos/beib1.m3u8
-#EXTINF:-1, BEIN SPORTS 2 HD
-http://lihattv.toh.info/jhos/beib2.m3u8
-#EXTINF:-1, BEIN SPORTS 3 HD
+#EXTINF:-1,====&USA&====
+http://tv2iptv.com:8000/live/emad/123456/3578.ts
+#EXTINF:-1,USA_|_WWE_HD
+http://tv2iptv.com:8000/live/emad/123456/3361.ts
+#EXTINF:-1,USA_|_TMN_4_MOVIE
+http://tv2iptv.com:8000/live/emad/123456/3362.ts
+#EXTINF:-1,USA_|_TMN_3_MOVIE
+http://tv2iptv.com:8000/live/emad/123456/3363.ts
+#EXTINF:-1,USA_|_TMN_2_MOVIE
+http://tv2iptv.com:8000/live/emad/123456/3364.ts
+#EXTINF:-1,USA_|_TMN_1_MOVIE
+http://tv2iptv.com:8000/live/emad/123456/3365.ts
+#EXTINF:-1,USA_|_TLC_HD
+http://tv2iptv.com:8000/live/emad/123456/3366.ts
+#EXTINF:-1,USA_|_Poker_Central
+http://tv2iptv.com:8000/live/emad/123456/3367.ts
+#EXTINF:-1,USA_|_PAC_12_WD_HD
+http://tv2iptv.com:8000/live/emad/123456/3369.ts
+#EXTINF:-1,USA_|_PAC-12_Network_HD
+http://tv2iptv.com:8000/live/emad/123456/3368.ts
+#EXTINF:-1,USA_|_NFL_HD
+http://tv2iptv.com:8000/live/emad/123456/3370.ts
+#EXTINF:-1,USA_|_NDTV
+http://tv2iptv.com:8000/live/emad/123456/3371.ts
+#EXTINF:-1,USA_|_NBCSN_HD
+http://tv2iptv.com:8000/live/emad/123456/3372.ts
+#EXTINF:-1,USA_|_Nat_Geo_Wild
+http://tv2iptv.com:8000/live/emad/123456/3373.ts
+#EXTINF:-1,USA_|_Max_West
+http://tv2iptv.com:8000/live/emad/123456/3374.ts
+#EXTINF:-1,USA_|_Fox_Sports_2_HD
+http://tv2iptv.com:8000/live/emad/123456/3375.ts
+#EXTINF:-1,USA_|_Fox_Sports_1_HD
+http://tv2iptv.com:8000/live/emad/123456/3376.ts
+#EXTINF:-1,USA_ESPN
+http://tv2iptv.com:8000/live/emad/123456/3377.ts
+#EXTINF:-1,USA_|_A&E_HD
+http://tv2iptv.com:8000/live/emad/123456/3378.ts
+#EXTINF:-1,USA__TBS_HD
+http://tv2iptv.com:8000/live/emad/123456/3358.ts
+#EXTINF:-1,USA__ESPN_2
+http://tv2iptv.com:8000/live/emad/123456/3359.ts
+#EXTINF:-1,USA__BYU_Sports_TV_HD
+http://tv2iptv.com:8000/live/emad/123456/3360.ts
+#EXTINF:-1,USA_TNT_HD
+http://tv2iptv.com:8000/live/emad/123456/3379.ts
+#EXTINF:-1,USA_SYFY_HD
+http://tv2iptv.com:8000/live/emad/123456/3380.ts
+#EXTINF:-1,USA_NAT_GEO_HD
+http://tv2iptv.com:8000/live/emad/123456/3381.ts
+#EXTINF:-1,USA_FOX_NEWS_HD
+http://tv2iptv.com:8000/live/emad/123456/3382.ts
+#EXTINF:-1,USA_DISCCOVERY_HD
+http://tv2iptv.com:8000/live/emad/123456/3384.ts
+#EXTINF:-1,USA_CW_HD
+http://tv2iptv.com:8000/live/emad/123456/3385.ts
+#EXTINF:-1,USA_COMEDY_CENTRAL_HD
+http://tv2iptv.com:8000/live/emad/123456/3386.ts
+#EXTINF:-1,USA_CNN_HD
+http://tv2iptv.com:8000/live/emad/123456/3387.ts
+#EXTINF:-1,USA_CNBC_HD
+http://tv2iptv.com:8000/live/emad/123456/3388.ts
+#EXTINF:-1,USA_CBS
+http://tv2iptv.com:8000/live/emad/123456/3389.ts
+#EXTINF:-1,USA_CA_|_TSN_5
+http://tv2iptv.com:8000/live/emad/123456/3352.ts
+#EXTINF:-1,USA_CA_|_TSN_4
+http://tv2iptv.com:8000/live/emad/123456/3353.ts
+#EXTINF:-1,USA_CA_|_TSN_3
+http://tv2iptv.com:8000/live/emad/123456/3354.ts
+#EXTINF:-1,USA_CA_|_TSN_2
+http://tv2iptv.com:8000/live/emad/123456/3355.ts
+#EXTINF:-1,USA_CA_|_TSN_1
+http://tv2iptv.com:8000/live/emad/123456/3356.ts
+#EXTINF:-1,USA_CA_|_Sportsnet_360_HD
+http://tv2iptv.com:8000/live/emad/123456/3357.ts
+#EXTINF:-1,USA_CARTOON_NETWORK_HD_
+http://tv2iptv.com:8000/live/emad/123456/3390.ts
+#EXTINF:-1,USA_BRAVO_HD
+http://tv2iptv.com:8000/live/emad/123456/3391.ts
+#EXTINF:-1,USA_ANIMAL_PLANET_HD
+http://tv2iptv.com:8000/live/emad/123456/3392.ts
+#EXTINF:-1,USA_AMC_HD
+http://tv2iptv.com:8000/live/emad/123456/3393.ts
+#EXTINF:-1,USA_ABC_NEWS_HD
+http://tv2iptv.com:8000/live/emad/123456/3394.ts
+#EXTINF:-1,USA_ABC_HD
+http://tv2iptv.com:8000/live/emad/123456/3395.ts
 http://lihattv.toh.info/jhos/beib3.m3u8
 #EXTINF:-1, BEIN SPORTS 11 HD
 rtmp://www1.iguide.to/iguide playpath=ql4mb7goxh0gx7y swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31507&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
