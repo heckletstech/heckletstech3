@@ -175,8 +175,6 @@ http://ok2.se:8000/live/germ7782@yahoo.com/hkumczfx/3081.m3u8
 http://ok2.se:8000/live/germ7782@yahoo.com/hkumczfx/3082.m3u8
 #EXTINF:-1 tvg-name="ID HD" tvg-id="ID HD" tvg-logo="https://s3.amazonaws.com/ok2logo/id.png" group-title="ENGLISH",ID HD
 http://ok2.se:8000/live/germ7782@yahoo.com/hkumczfx/324.m3u8
-#EXTINF:-1 tvg-name="IFC HD" tvg-id="IFC HD" tvg-logo="https://s3.amazonaws.com/ok2logo/ifc.png" group-title="ENGLISH",IFC HD
-http://ok2.se:8000/live/germ7782@yahoo.com/hkumczfx/327.m3u8
 #EXTINF:-1 tvg-name="JCVD 24x7" tvg-id="JCVD 24x7" tvg-logo="http://cdn.images.dailystar.co.uk/dynamic/1/281x351/181580_1.jpg" group-title="ENGLISH",JCVD 24x7
 http://ok2.se:8000/live/germ7782@yahoo.com/hkumczfx/5838.m3u8
 #EXTINF:-1 tvg-name="JET LI 24X7" tvg-id="JET LI 24X7" tvg-logo="http://surbrook.devermore.net/adaptationsasianaction/jetli2.JPG" group-title="ENGLISH",JET LI 24X7
